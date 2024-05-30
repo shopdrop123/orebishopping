@@ -15,3 +15,4 @@ root.render(
     </PersistGate>
   </Provider>
 );
+ServiceWorkerRegistration.unregister();
